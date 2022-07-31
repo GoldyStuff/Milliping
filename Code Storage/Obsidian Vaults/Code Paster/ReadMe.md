@@ -1,0 +1,3 @@
+This is an obsidian vault / text file documenting ALL of my code from Sunday 31st of july, I develop my code in an API and then I export it into a text file here in an appropriote folder of the vault just before I put the same file in the actual folders on the computer.
+
+All this code has no license and is completly free to use, I'd appreciate some credit though ; D...
